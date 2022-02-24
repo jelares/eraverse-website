@@ -156,6 +156,11 @@ li a {
     margin-bottom: .5rem;
 }
 
+.list-group-item {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
 /* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
 @media (max-width: 768px) {
     h1, h2, h3, h4 {
